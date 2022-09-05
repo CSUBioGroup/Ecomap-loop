@@ -16,8 +16,8 @@ if [ ! -e $resultpath ]; then
   mkdir --parent $resultpath;
 fi
 
-# $codepath"/step1.sh" -d $datapath -w $workpath;
-# $codepath"/step2.sh" -d $datapath -w $workpath;
+$codepath"/step1.sh" -d $datapath -w $workpath;
+$codepath"/step2.sh" -d $datapath -w $workpath;
 $codepath"/step3.sh" -d $datapath -w $workpath -r $resultpath;
 
-#rm -r $workpath;
+rm -r $workpath;
