@@ -21,7 +21,7 @@
 - Download the meme suit (https://meme-suite.org/meme/doc/download.html).
 
 ## 2. Prepare data
-Several example data are provided in "data" folder(https://drive.google.com/file/d/1TfEzXSkaYihvzeYtpzQ0sToCir9eQnEO/view?usp=sharing).
+Several example data are provided in "data" folder (https://drive.google.com/file/d/1TfEzXSkaYihvzeYtpzQ0sToCir9eQnEO/view?usp=sharing).
 
 The data in bam folder is the CHIP-seq data of different cells in ".bam" format.
 
